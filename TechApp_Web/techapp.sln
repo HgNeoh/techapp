@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "techapp", "techapp\", "{50F75EF0-0900-451C-B584-B11B15486984}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "techapp", "techapp\", "{33F36832-934D-4734-9334-E554C8AF55AC}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/techapp"
@@ -18,8 +18,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "techapp", "techapp\", "{50F
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "2082"
-		DefaultWebSiteLanguage = "Visual Basic"
+		VWDPort = "2368"
+		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
 Global
@@ -27,8 +27,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50F75EF0-0900-451C-B584-B11B15486984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50F75EF0-0900-451C-B584-B11B15486984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F36832-934D-4734-9334-E554C8AF55AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F36832-934D-4734-9334-E554C8AF55AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
