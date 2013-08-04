@@ -1,5 +1,0 @@
-C:\Users\HgNeoh\Documents\Visual Studio 2012\Projects\facerecog\facerecog\bin\facerecog.dll
-C:\Users\HgNeoh\Documents\Visual Studio 2012\Projects\facerecog\facerecog\bin\facerecog.pdb
-C:\Users\HgNeoh\Documents\Visual Studio 2012\Projects\facerecog\facerecog\obj\Release\facerecog.csprojResolveAssemblyReference.cache
-C:\Users\HgNeoh\Documents\Visual Studio 2012\Projects\facerecog\facerecog\obj\Release\facerecog.dll
-C:\Users\HgNeoh\Documents\Visual Studio 2012\Projects\facerecog\facerecog\obj\Release\facerecog.pdb
