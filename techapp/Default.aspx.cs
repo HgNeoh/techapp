@@ -5,13 +5,14 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-public partial class _Default : System.Web.UI.Page
+namespace facerecog
 {
-    protected void Page_Load(object sender, EventArgs e)
+    public partial class Default : System.Web.UI.Page
     {
-    }
-    protected void testButton_Click(object sender, EventArgs e)
-    {
-        this.testButton.Text = "TechApp";
+        protected void Page_Load(object sender, EventArgs e)
+        { }
+
+        protected void testButton_Click(object sender, EventArgs e)
+        { testButton.Text = "Changed"; }
     }
 }
