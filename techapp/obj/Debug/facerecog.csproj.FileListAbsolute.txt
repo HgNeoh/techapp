@@ -1,0 +1,5 @@
+c:\users\hgneoh\documents\visual studio 2012\Projects\facerecog\facerecog\bin\facerecog.dll
+c:\users\hgneoh\documents\visual studio 2012\Projects\facerecog\facerecog\bin\facerecog.pdb
+c:\users\hgneoh\documents\visual studio 2012\Projects\facerecog\facerecog\obj\Debug\facerecog.csprojResolveAssemblyReference.cache
+c:\users\hgneoh\documents\visual studio 2012\Projects\facerecog\facerecog\obj\Debug\facerecog.dll
+c:\users\hgneoh\documents\visual studio 2012\Projects\facerecog\facerecog\obj\Debug\facerecog.pdb
